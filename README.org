@@ -1,0 +1,10 @@
+* math
+
+Math is a mathematical library that implements some algorithms: of linear algebra; statistics; finding approximating polynomials on Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mnasoft/math.git   |
+| commit  | e757b68  |
+| systems | math |
+|---------+-------------------------------------------|
+
