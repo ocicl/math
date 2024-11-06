@@ -4,6 +4,6 @@ Math is a mathematical library that implements some algorithms: of linear algebr
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/mnasoft/math.git |
-| commit  | b72691c                                 |
+| commit  | d4b3edf                                 |
 | systems | math                                    |
 |---------+-----------------------------------------|
